@@ -1,3 +1,5 @@
 #!/usr/bin/python
 
-print("This is v2 of the app!!")
+with open('version', 'r') as f:
+    version = f.read()
+print(f"This is version {version} of the app!!")
