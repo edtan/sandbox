@@ -1,9 +1,3 @@
 # Sandbox
 
-This repo is for testing.  Testing smee.
-
-Testing a commit...
-
-Testing a PR.  update to PR.
-
-Now testing Docker build.
+This repo is for testing a pipeline app.
