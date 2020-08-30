@@ -1,0 +1,3 @@
+color:
+    description: A string that will be printed in the app denoting the app's current color.
+    example: blue
