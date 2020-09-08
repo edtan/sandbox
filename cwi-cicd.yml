@@ -1,0 +1,9 @@
+repos:
+  - name: Sandbox app
+    subdirectory: .
+    code_type: Microservice
+    config_template_file: config-template.yml  # this is relative to the subdirectory
+  - name: Sandbox app infra
+    subdirectory: infrastructure-code/
+    code_type: Infrastructure
+    config_template_file: kubernetes-template.yml  # this is relative to the subdirectory
