@@ -1,6 +1,6 @@
 repos:
   - name: Sandbox app
-    subdirectory: .
+    subdirectory: app-code
     code_type: Microservice
     config_template_file: config-template.yml  # this is relative to the subdirectory
   - name: Sandbox app infra
